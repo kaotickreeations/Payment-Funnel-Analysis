@@ -1,5 +1,6 @@
-Payment Funnel Analysis with SQL
-<img width="683" alt="image" src="https://github.com/user-attachments/assets/95009b66-639e-4828-b658-1a5f685ba9f8" />
+Payment Funnel Analysis with SQL <br>
+<br>
+<img width="683" alt="image" src="https://github.com/user-attachments/assets/95009b66-639e-4828-b658-1a5f685ba9f8" /> <br>
 
 Case Study: Payment Funnel Analysis
 Your finance team comes to you one day asking about why there are so many unpaid subscriptions. Lately, customers have been choosing or opting into a paid subscription plan, but many are not completing the process by paying for their subscription. When customers sign up for a subscription, we consider them to officially be a customer, but they aren’t considered “converted” into a paid plan until they actually pay for their subscription by completing the payment process. Because of this, the company has a less-than-desired conversion rate since many companies have started a subscription but haven’t actually paid yet. This is a huge issue for the company because we have customers who are signing up for our product but aren’t paying— which has resulted in a large loss in revenue. 
